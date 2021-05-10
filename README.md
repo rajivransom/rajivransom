@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajivransom
-- 👀 I’m interested in my engineering studies
+- 👀 I’m interested in Web Development and Machine learning
 - 🌱 I’m currently learning React native
-- 💞️ I’m looking to collaborate on Some useful ideas for an app
+- 💞️ I’m looking to collaborate on Some cool apps
 - 📫 How to reach me : mail me tiwarirajeev793@gmail.com
 
 <!---
